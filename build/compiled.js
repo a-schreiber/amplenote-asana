@@ -5,10 +5,7 @@
     constants: {},
     // --------------------------------------------------------------------------
     // https://www.amplenote.com/help/developing_amplenote_plugins#insertText
-    insertText: {
-      "Hallo": true,
-      "Du": true
-    },
+    insertText: {},
     // --------------------------------------------------------------------------
     // https://www.amplenote.com/help/developing_amplenote_plugins#noteOption
     noteOption: {
